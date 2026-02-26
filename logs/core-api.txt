@@ -71,3 +71,4 @@
 08:18:11 | permission_level=4600
 08:18:14 | release_hash=676a41bae8e0d836a186496b67445afca605ed207b33d24e073fec9b71f7aa2c
 09:18:08 | pipeline=177133
+09:18:11 | permission_level=2250
